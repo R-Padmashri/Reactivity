@@ -22,6 +22,24 @@ A simple web-based game built using **React.js**, **Node.js**, and **PostgreSQL*
 
 ---
 
+## Website:
 
+- Login:
+![Login](images/login.png)
+
+- Register:
+![Register](images/register.png)
+
+- Initial State:
+![Initial State](images/react_init.png)
+
+- After Start:
+![After Start](images/react_started.png)
+
+- Score:
+![Score](images/react_score.png)
+
+- New Highscore:
+![New Highscore](images/react_highscore.png)
 
 
