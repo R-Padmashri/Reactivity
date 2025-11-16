@@ -81,7 +81,7 @@ A simple web-based game built using **React.js**, **Node.js**, and **PostgreSQL*
 
 ---
 
-### 🧩 Memory Match Screenshots (Add yours when ready!)
+### 🧩 Memory Match Screenshots
 
 
 - **Memory Match Game – Initial State**  
